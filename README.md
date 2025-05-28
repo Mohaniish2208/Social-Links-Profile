@@ -29,3 +29,7 @@ A sleek, responsive social profile card built as part of the [Frontend Mentor](h
 │   └── images/
 │       └── avatar-jessica.jpeg
 │       └── favicon-32x32.png
+```
+## 📬 Connect With Me 
+- ✅ GitHub - https://github.com/Mohaniish2208
+- ✅ Frontend Mentor - https://www.frontendmentor.io/profile/Mohaniish2208
