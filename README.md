@@ -7,7 +7,7 @@ A sleek, responsive social profile card built as part of the [Frontend Mentor](h
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project Live](https://your-live-link-here.com)
+🔗 [View Project Live](https://mohaniish2208.github.io/Social-Links-Profile/)
 
 ---
 
