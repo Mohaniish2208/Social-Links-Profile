@@ -2,8 +2,7 @@
 
 A sleek, responsive social profile card built as part of the [Frontend Mentor](https://www.frontendmentor.io) challenge. This project showcases clean HTML and CSS skills while emphasizing layout fundamentals, responsive design, and interactive styling.
 
-![Preview](./assets/images/preview.jpg) <!-- Replace with actual preview image path -->
-
+![Preview](final_image.jpg)
 ---
 
 ## 🚀 Live Demo
